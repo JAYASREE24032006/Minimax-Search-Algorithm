@@ -1,12 +1,12 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:           </h3>
-<h3>Register Number/Staff Id:          </h3>
-<H3>Aim:</H3>
+<h1>EX-5 : IMPLEMENT MINIMAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME</h1> 
+<h4>NAME : R.JAYASREE         </h4>
+<h4>R.NO : 212223040074       </h4>
+<H2>AIM :</H4>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
 
-<H3>Theory and Procedure:</H3>
+<H2>THEORY AND PROCEDURE :</H2>
 To begin, let's start by defining what it means to play a perfect game of tic tac toe:
 
 If I play perfectly, every time I play I will either win the game, or I will draw the game. Furthermore if I play against another perfect player, I will always draw the game.
@@ -112,5 +112,5 @@ end
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 <hr>
-<h2>Result:</h2>
+<h2>RESULT :</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
